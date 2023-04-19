@@ -13,4 +13,4 @@ https://ibb.co/F8L8V4P
 
 # Видаляємо контакт
 
-node index.js --action="remove" --id qdggE76Jtbfd9eWJHrssH <br /> https://ibb.co/P1P97v3
+node index.js --action="remove" --id qdggE76Jtbfd9eWJHrssH <br /> https://ibb.co/7XrzP7z
