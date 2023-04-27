@@ -1,6 +1,7 @@
 # Отримуємо і виводимо весь список контактів у вигляді таблиці (console.table)
 
 node index.js --action="list"
+
 ![get contacts list to table](./assets/list.png)
 https://ibb.co/JCdmFt4
 
